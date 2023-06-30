@@ -76,6 +76,8 @@ function formataInscricaoNacional (numero) {
   return numero
 }
 
+
+
 /**
  * Formata data de acordo com <dt> esoecificado.
  * <dt> é no formato UTC, YYYY-MM-DDThh:mm:ssTZD (https://www.w3.org/TR/NOTE-datetime)
